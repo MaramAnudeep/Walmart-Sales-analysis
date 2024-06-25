@@ -238,36 +238,3 @@ from walmart_pr
 group by branch,day_name
 order by avg(rating) desc
 limit 3;
-
-/* ------------------------------------conclusion-----------------------------------------
-
-----------Productline Analysis-------------
-** The analysis reveals that product line fashion accessories consistently 
-   outperform others in terms of total sales quantity and revenue generation.Health and beauty,
-   Sports and travel have the highest unit price compared with other productlines
-** The productline food and bevarages generates highest revenue and pays the highest tax
-
-------------sales analysis--------------
-** Branch A has the highest sales compared to the other branches in overall productlines
-** In the month of january most products are sold and the highest revenue is generated in terms of months 
-** yaangon city has recorded the highest sales compared to other cities
-** Afternoon is the time where most sales are occuring
-** Members are generating more revenue and paying high vat  
-**except food and beverages all the productlines need to be improved interms of sales and revenue
-
---------Customer analysis -----
-**How ever customer segmentation and gender has distinct purchasing patterns, male customers tends towards 
-  sports and travel , female customers prefers Fashion accessories 
-**Female customers are attracted towards fashion accessories and males are prioritising Health and beauty
-products
-**Customers in the city naypyitaw are generating high revenue
-**The most common payment method used by customersa is Ewallet
-
-----Bussiness suggestions----
-**  As afternoon and evening are the peak time for sales it is better to perform promotional strategies 
-    in that time
-** Targeted marketing campaigns shoiuld be implemented to capitalize on customer preferences and maximize
-   sales during peak times
-** walmart should maintin proper stock level and focusing on the best performong productline  based on
- the demand
-*/
